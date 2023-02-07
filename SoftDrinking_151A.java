@@ -9,7 +9,6 @@ public class SoftDrinking_151A {
         int c = sc.nextInt();
         int d = sc.nextInt();
         int p = sc.nextInt();
-
         int nl = sc.nextInt();
         int np = sc.nextInt();
         System.out.println(Math.min(Math.min(k * l / nl, c *d), p / np) / n);
